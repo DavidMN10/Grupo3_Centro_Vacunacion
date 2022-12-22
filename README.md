@@ -20,4 +20,7 @@ David Milla Noa
 Erika Tello Rivera
 
 ----------------------------------
+Se preparo un dataset a partir de la información de los centros de vacunacion de Covid 19 en Peru de la web de datos abiertos ( https://www.datosabiertos.gob.pe/dataset/centros-de-vacunacion) y el dataset con los datos geográficos de los departamentos del peru
+Este nuevo dataset contiene nombre del departamento , latitud, longitud, cantidad de centro de vacunacion por departamento y volumen de diferentes tipos de centros de vacunación.
 
+----------------------------------
