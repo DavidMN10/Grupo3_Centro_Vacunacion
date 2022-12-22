@@ -28,3 +28,9 @@ El procesamiento de los datos lo podemos encontrar en el archivo nombrado "Traba
 En el archivo "PROYECTOFINAL.py" se encuentra la app la cual tiene el siguiente link de deploy:
 
 ----------------------------------
+
+La app muestra un mapa interactivo del Perú dividido en departamentos en los cuales podemos visualizar en forma de heatmap las cantidades de centros de vacunación por entidades las cuales fueron extraidas del scraping de datos de la base de datos original. 
+
+En la parte inferior podemos hacer comparaciones de barras de los diferentes tipos de centros de vacunación y hacer la comparación por departamento.
+
+
