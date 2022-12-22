@@ -34,3 +34,9 @@ La app muestra un mapa interactivo del Perú dividido en departamentos en los cu
 En la parte inferior podemos hacer comparaciones de barras de los diferentes tipos de centros de vacunación y hacer la comparación por departamento.
 
 
+----------------------------------
+Referencias:
+1) https://discuss.streamlit.io/t/creating-points-and-heatmap-from-csv/20047
+2) https://github.com/juaneladio/peru-geojson/blob/master/peru_departamental_simple.geojson
+3) https://sakizo-blog.com/en/607/
+4) https://medium.datadriveninvestor.com/recreating-my-project-using-folium-and-streamlit-part-2-8e7668e8924d
